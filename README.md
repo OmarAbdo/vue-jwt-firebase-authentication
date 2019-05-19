@@ -1,6 +1,6 @@
-# vue-update
+# vue JWT Firebase Authentication
 
-> Vue Auth & more
+> Please update firebase endpoints to yours in order for this to work
 
 ## Build Setup
 
